@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>empty</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>empty</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>empty</p>
+                <ab>
+                    <fs xml:id="TARGET_INFO">
+                        <f name="version">
+                            <string>2</string>
+                        </f>
+                        <f name="filetype">
+                            <string>TEXT</string>
+                        </f>
+                        <f name="charset">
+                            <string>UTF-8</string>
+                        </f>
+                        <f name="fileOSType">
+                            <string>UNIX</string>
+                        </f>
+                        <f name="sourceTextType">
+                            <string>PROSE</string>
+                        </f>
+                        <f name="checksum">
+                            <string>3259194707</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p n="1">
+                <ptr target="1.txt#range( /.0, /.1803)" type="inclusion"/>
+            </p>
+            <p n="2">
+                <ptr target="1.txt#range( /.1803, /.1805)" type="inclusion"/>
+                <ptr target="1.txt#range( /.1805, /.3993)" type="inclusion"/>
+            </p>
+            <p n="3">
+                <ptr target="1.txt#range( /.3993, /.3995)" type="inclusion"/>
+                <ptr target="1.txt#range( /.3995, /.6064)" type="inclusion"/>
+            </p>
+            <p n="4">
+                <ptr target="1.txt#range( /.6064, /.6066)" type="inclusion"/>
+                <ptr target="1.txt#range( /.6066, /.6259)" type="inclusion"/>
+            </p>
+            <p n="5">
+                <ptr target="1.txt#range( /.6259, /.6261)" type="inclusion"/>
+                <ptr target="1.txt#range( /.6261, /.6419)" type="inclusion"/>
+            </p>
+            <p n="6">
+                <ptr target="1.txt#range( /.6419, /.6421)" type="inclusion"/>
+                <ptr target="1.txt#range( /.6421, /.8106)" type="inclusion"/>
+            </p>
+            <p n="7">
+                <ptr target="1.txt#range( /.8106, /.8108)" type="inclusion"/>
+                <ptr target="1.txt#range( /.8108, /.9735)" type="inclusion"/>
+            </p>
+            <p n="8">
+                <ptr target="1.txt#range( /.9735, /.9737)" type="inclusion"/>
+                <ptr target="1.txt#range( /.9737, /.11234)" type="inclusion"/>
+            </p>
+            <p n="9">
+                <ptr target="1.txt#range( /.11234, /.11236)" type="inclusion"/>
+                <ptr target="1.txt#range( /.11236, /.14112)" type="inclusion"/>
+            </p>
+            <p n="10">
+                <ptr target="1.txt#range( /.14112, /.14114)" type="inclusion"/>
+                <ptr target="1.txt#range( /.14114, /.15651)" type="inclusion"/>
+            </p>
+            <p n="11">
+                <ptr target="1.txt#range( /.15651, /.15653)" type="inclusion"/>
+                <ptr target="1.txt#range( /.15653, /.16905)" type="inclusion"/>
+            </p>
+            <p n="12">
+                <ptr target="1.txt#range( /.16905, /.16907)" type="inclusion"/>
+                <ptr target="1.txt#range( /.16907, /.19448)" type="inclusion"/>
+            </p>
+        </body>
+    </text>
+</TEI>

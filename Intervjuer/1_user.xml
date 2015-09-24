@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>empty</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>ecarnebrink</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Standoff Markup</p>
+                <ab>
+                    <fs xml:id="TARGET_INFO">
+                        <f name="version">
+                            <string>2</string>
+                        </f>
+                        <f name="filetype">
+                            <string>TEXT</string>
+                        </f>
+                        <f name="charset">
+                            <string>UTF-8</string>
+                        </f>
+                        <f name="fileOSType">
+                            <string>UNIX</string>
+                        </f>
+                        <f name="sourceTextType">
+                            <string>PROSE</string>
+                        </f>
+                        <f name="checksum">
+                            <string>3259194707</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <fs xml:id="CATMA_85cb9edb-dd59-4222-88a8-bb94c80185f6" n="1_6e6a5315-4f24-499a-b1ae-745cd40fc489" type="catma_tag">
+            <f xml:id="CATMA_4a3f2aa7-3840-4ebf-ac2f-96995b5b6283" name="catma_tagname">
+                <string>First test tag</string>
+            </f>
+            <f xml:id="CATMA_37ffa9ba-6741-43ab-afe0-0430b81d47e9" name="catma_displaycolor">
+                <numeric value="-65536"/>
+            </f>
+        </fs>
+        <body>
+            <ab type="catma">
+                <ptr target="1.txt#range( /.0, /.117)" type="inclusion"/>
+                <seg ana="#CATMA_85cb9edb-dd59-4222-88a8-bb94c80185f6">
+                    <ptr target="1.txt#range( /.117, /.249)" type="inclusion"/>
+                </seg>
+                <ptr target="1.txt#range( /.249, /.19448)" type="inclusion"/>
+            </ab>
+        </body>
+    </text>
+</TEI>
