@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>SMD for the third interview</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>enk</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Standoff Markup</p>
+                <ab>
+                    <fs xml:id="TARGET_INFO">
+                        <f name="version">
+                            <string>2</string>
+                        </f>
+                        <f name="filetype">
+                            <string>TEXT</string>
+                        </f>
+                        <f name="charset">
+                            <string>UTF-8</string>
+                        </f>
+                        <f name="fileOSType">
+                            <string>UNIX</string>
+                        </f>
+                        <f name="sourceTextType">
+                            <string>PROSE</string>
+                        </f>
+                        <f name="checksum">
+                            <string>3977446004</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <fs xml:id="CATMA_587af459-5dab-46f4-902f-4927e56db9af" n="4_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_35fd429d-4501-438f-9721-606f63b6a4c1" name="catma_tagname">
+                <string>Uses different digital tools to complement each other</string>
+            </f>
+            <f xml:id="CATMA_5a81d5e3-8bec-42c1-907e-1970e34de8a0" name="catma_displaycolor">
+                <numeric value="-16713217"/>
+            </f>
+            <f xml:id="CATMA_bdcb9fa6-eac1-4ed7-8c85-7bb2e773336f" name="Simple program for simple notes">
+                <fs xml:id="CATMA_561a186a-b07f-4045-88f4-6ae3470394ad" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_40590016-81fc-470d-ad1f-b169bd0f02c8" name="catma_tagname">
+                        <string>Simple program for simple notes</string>
+                    </f>
+                    <f xml:id="CATMA_a7b39d36-d871-4604-9cec-369e09b045ee" name="catma_displaycolor">
+                        <numeric value="-16750849"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_8a52cd11-c224-4687-a080-a80d882b727b" name="Advanced program for more advanced notes">
+                <fs xml:id="CATMA_643fc7f3-0f12-4b56-adcf-ecbacd554e45" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_3791261d-f58d-4aea-a2e3-8635e29681a0" name="catma_tagname">
+                        <string>Advanced program for more advanced notes</string>
+                    </f>
+                    <f xml:id="CATMA_131457ad-b2fc-4757-9473-76b0bb575006" name="catma_displaycolor">
+                        <numeric value="-16767233"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_389674ae-a4f3-4476-8b0c-7b5387e627a7" name="Digital tools on different devices">
+                <fs xml:id="CATMA_4debf3fd-7f96-42ae-94dc-f8281953be26" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_bfe1ffd0-c520-4796-a528-dcb0a8d2d2fc" name="catma_tagname">
+                        <string>Digital tools on different devices</string>
+                    </f>
+                    <f xml:id="CATMA_d7896e97-3976-411a-8345-c485c3f07ece" name="catma_displaycolor">
+                        <numeric value="-65319"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_c574f892-2e3b-40a4-84f3-cd116ebe1cb3" n="3_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_5376a0fe-a3a9-4258-967f-85748410bfa5" name="catma_tagname">
+                <string>Using digital tools</string>
+            </f>
+            <f xml:id="CATMA_fc03845b-bdff-418b-9182-ceee7623be2d" name="catma_displaycolor">
+                <numeric value="-11308564"/>
+            </f>
+            <f xml:id="CATMA_da2266ad-c3f5-4ce5-ac55-d66cc6731212" name="Describes the procedure of using digital tools">
+                <fs xml:id="CATMA_80fb0b1a-5fe6-43d7-80b3-bac710c9b67a" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_02350f7f-185d-4e8d-bf58-2204ca4517fe" name="catma_tagname">
+                        <string>Describes the procedure of using digital tools</string>
+                    </f>
+                    <f xml:id="CATMA_8662056e-47fa-45db-b5e8-896a87d8c241" name="catma_displaycolor">
+                        <numeric value="-20480"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_06df9b90-655f-4b53-a432-af54ea9c23a1" name="Improves learning by helping us focus to understand the information instead of documenting it">
+                <fs xml:id="CATMA_7d8b606e-6b45-41c6-acf2-3748c5bddede" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_5acdb18d-9eec-48cb-9350-d98fedb99b7e" name="catma_tagname">
+                        <string>Improves learning by helping us focus to understand the information instead of documenting it</string>
+                    </f>
+                    <f xml:id="CATMA_14768e4a-44da-4676-8af1-c06deef57f7b" name="catma_displaycolor">
+                        <numeric value="-16747521"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_25ac8e11-a798-4572-be20-0585fbabb22e" n="3_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_08d4e594-f7a3-4218-bc59-efb2c8cd8531" name="catma_tagname">
+                <string>Cons with digital tools</string>
+            </f>
+            <f xml:id="CATMA_12c60825-b86a-4094-bfc3-ff177dedb7e7" name="catma_displaycolor">
+                <numeric value="-12509666"/>
+            </f>
+            <f xml:id="CATMA_ec5c41ca-15f9-42b6-bab7-0e2b7948a462" name="Can contain distracting content">
+                <fs xml:id="CATMA_ab71fed2-4dc5-4225-b65c-2a9b77edd5eb" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_1041d2e4-3e30-44ba-92e0-31a620012889" name="catma_tagname">
+                        <string>Can contain distracting content</string>
+                    </f>
+                    <f xml:id="CATMA_b1a2e60a-1a6a-4beb-93d5-cdae985230fd" name="catma_displaycolor">
+                        <numeric value="-65536"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_0ab768f5-41b7-4aec-ba7d-4c78a4a13a21" name="Problem with serveral copies">
+                <fs xml:id="CATMA_7685472b-e8f1-4539-ac70-cbeef515d525" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_34380cce-e3fc-4e7c-bf18-fb639003b1a9" name="catma_tagname">
+                        <string>Problem with serveral copies</string>
+                    </f>
+                    <f xml:id="CATMA_f5b308a7-8c82-4b5c-85bb-9c862f95547b" name="catma_displaycolor">
+                        <numeric value="-16754433"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_31b7e266-588c-4209-8901-8819988d7eff" n="2_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_a6a7cd1f-9363-4341-b5c7-6a686d4a7a58" name="catma_tagname">
+                <string>Improves knowledge</string>
+            </f>
+            <f xml:id="CATMA_a19d40e5-548a-4685-b8aa-299f0432b42d" name="catma_displaycolor">
+                <numeric value="-65536"/>
+            </f>
+            <f xml:id="CATMA_ff9c69bd-f621-4fc7-96c9-af9bb4e74f47" name="Opens up different sources of knowledge">
+                <fs xml:id="CATMA_84673c40-3d20-434e-88f6-eb80dcd6afca" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_ba24b8e5-401b-459e-ae97-c7383621ead2" name="catma_tagname">
+                        <string>Opens up different sources of knowledge</string>
+                    </f>
+                    <f xml:id="CATMA_65dd1fa0-577e-4fb8-91e7-f703d054540e" name="catma_displaycolor">
+                        <numeric value="-16713985"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_ffec30b6-c730-4619-a28e-f6a2be554a3e" n="3_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_c483718d-1bc4-42d1-9aca-cd72f127e1ea" name="catma_tagname">
+                <string>Picture notes are fast to take</string>
+            </f>
+            <f xml:id="CATMA_13a5a541-d6fe-4be6-9686-32a000fc246c" name="catma_displaycolor">
+                <numeric value="-37888"/>
+            </f>
+            <f xml:id="CATMA_21c9b53c-6d59-46cb-846c-f19c68328f05" name="Phone_is_used_to_take_picture_notes">
+                <fs xml:id="CATMA_358a0d97-5920-4854-b23c-31c84cbfcc71" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_6c120707-6b10-42c6-8d30-3db0b94ea09e" name="catma_tagname">
+                        <string>Phone is used to take picture notes</string>
+                    </f>
+                    <f xml:id="CATMA_4aba8305-2613-487c-87d5-1517a5e12ebc" name="catma_displaycolor">
+                        <numeric value="-34560"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_3b9a559f-4539-401c-9b20-fe95c6e598e7" name="Pictures is easier to remember">
+                <fs xml:id="CATMA_f15b8c67-1bb4-4d72-91d6-a02d8304188e" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_68c5eb41-379a-4fae-9448-e7f6c35402c8" name="catma_tagname">
+                        <string>Pictures is easier to remember</string>
+                    </f>
+                    <f xml:id="CATMA_87f5e5e3-9b4f-4d8d-ab0c-4aafb1ae6d1a" name="catma_displaycolor">
+                        <numeric value="-16711890"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_bd1da253-9915-4c89-9c5f-f923a41910c6" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_33f5d7a8-8613-4942-8d78-af743cd13362" name="catma_tagname">
+                <string>Never used a digital tool for that purpose</string>
+            </f>
+            <f xml:id="CATMA_d334b0f1-c783-4cf0-b468-656055e0100a" name="catma_displaycolor">
+                <numeric value="-12044232"/>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_d7d60592-a48c-4711-a370-51b70b52b800" n="4_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_53ffa415-36ab-4e66-b879-4e3887269720" name="catma_tagname">
+                <string>The type of notes/task decide what tool is used</string>
+            </f>
+            <f xml:id="CATMA_0e721686-5e87-4577-827b-fb54a8901b1d" name="catma_displaycolor">
+                <numeric value="-16759553"/>
+            </f>
+            <f xml:id="CATMA_d3b4c1af-5745-4abe-a172-912d55d9fbdf" name="Some_digital_tools_are_more_secure_than_others">
+                <fs xml:id="CATMA_17aa1b51-5996-42f3-be9f-aa1fc79afa21" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_734c7791-0fcc-4635-a350-47aa141f0fc1" name="catma_tagname">
+                        <string>Some digital tools are more secure than others</string>
+                    </f>
+                    <f xml:id="CATMA_98af221f-cab3-4707-8c0c-fdb39a69a523" name="catma_displaycolor">
+                        <numeric value="-65536"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_0e5eb19f-5193-4187-95d3-4ce6b1c2e44e" n="4_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_71e0ce2f-38eb-4cf0-9c22-691661b83b28" name="catma_tagname">
+                <string>Audio recordings</string>
+            </f>
+            <f xml:id="CATMA_7d50e9d3-5f2b-427c-8f26-18b3386e8de8" name="catma_displaycolor">
+                <numeric value="-7181975"/>
+            </f>
+            <f xml:id="CATMA_dde6dd54-7de4-4177-be2a-6d36967faa02" name="How_audio_recordings_help_learning">
+                <fs xml:id="CATMA_3808400d-f5db-402a-b4ba-1340150b7a62" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_021229ff-2835-47ef-945c-883898224986" name="catma_tagname">
+                        <string>How audio recordings help learning</string>
+                    </f>
+                    <f xml:id="CATMA_1d593f9d-440c-42ef-840a-d6b9ed49bc88" name="catma_displaycolor">
+                        <numeric value="-3234652"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_12aaf1d6-b27f-434c-9dbb-fdf9f5f6f2cb" name="Phone_is_used_for_audio">
+                <fs xml:id="CATMA_04e779c7-0093-4336-8175-aa936de889e4" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_9a9468bb-c722-4513-870c-03c623fa333d" name="catma_tagname">
+                        <string>Phone is used for audio</string>
+                    </f>
+                    <f xml:id="CATMA_3ba4930c-0d40-43d6-be77-6e2e8161922a" name="catma_displaycolor">
+                        <numeric value="-3106150"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_277b65e0-846b-4dbd-8464-55f8cec705b9" name="Audio_recordings_are_flexible_when_you_move">
+                <fs xml:id="CATMA_74a37ea5-57c9-435a-9eb2-80e1a2b6a77d" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_7396493a-28e4-4ec2-902d-8449cf596191" name="catma_tagname">
+                        <string>Audio recordings are flexible when you move</string>
+                    </f>
+                    <f xml:id="CATMA_147115b3-2a7e-4a08-a909-7c6401c68a17" name="catma_displaycolor">
+                        <numeric value="-7785420"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_5a395912-1d13-42ce-a69c-62d18406d942" n="8_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_4a158b0e-b302-454b-9648-1fa974292b4a" name="catma_tagname">
+                <string>Pros with digital tools</string>
+            </f>
+            <f xml:id="CATMA_d14749a8-2fbb-4097-8981-d0c6e85b4763" name="catma_displaycolor">
+                <numeric value="-65536"/>
+            </f>
+            <f xml:id="CATMA_4abcf790-c8cc-45ec-b95c-3ce9717ca6ff" name="Devices_is_more_often_brought_along_to_school">
+                <fs xml:id="CATMA_47a56913-258b-4815-9a26-573a41dbb512" n="2_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_a4ca813b-f9ec-4e2b-8344-6af80f67fdfe" name="catma_tagname">
+                        <string>Devices is more often brought along to school</string>
+                    </f>
+                    <f xml:id="CATMA_9c08c6af-3526-4163-b0ab-b4ce1fa16d96" name="catma_displaycolor">
+                        <numeric value="-65536"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_6773b0a7-8d6a-42c6-9162-5be8376ebe9f" name="Using digital tools improve overall technological skills">
+                <fs xml:id="CATMA_086be99c-86d9-4528-9437-8a1c32840d8e" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_324801b4-3634-49cb-bb31-504043d8203d" name="catma_tagname">
+                        <string>Using digital tools improve overall technological skills</string>
+                    </f>
+                    <f xml:id="CATMA_40048757-ce46-404f-b708-76f8cf0a71a7" name="catma_displaycolor">
+                        <numeric value="-16711918"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_72784843-bb58-46a1-b5be-ba0a1e247ae2" name="DIgital_tools_offers_repeatability">
+                <fs xml:id="CATMA_c7521cc9-36c5-446d-b5f1-2e4459cce5e0" n="3_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_062ae57d-3229-4fcf-af8d-c08db077641e" name="catma_tagname">
+                        <string>Digital tools offers repeatability</string>
+                    </f>
+                    <f xml:id="CATMA_524cafb9-1f8b-4898-b4a8-8e0f049a1d6b" name="catma_displaycolor">
+                        <numeric value="-88924"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_8583b51d-de53-47cb-9605-23d331ba78cf" name="The_digital_format_is_more_powerful_than_books">
+                <fs xml:id="CATMA_ecebb61b-2401-4de1-9fa5-17ffec6ad25f" n="3_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_c487b8c1-f670-427e-8f55-1a8512139594" name="catma_tagname">
+                        <string>The digital format is more powerful than non-digital formats</string>
+                    </f>
+                    <f xml:id="CATMA_ae336031-d1da-41ca-943a-cb966ce3f15a" name="catma_displaycolor">
+                        <numeric value="-65536"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_8ff7e64a-0042-45cb-bbd1-37b57ebf08ac" name="Digital_tools_make_it_easier_to_find_resources">
+                <fs xml:id="CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_e40106bf-e96d-4895-bc69-db040ad35cfc" name="catma_tagname">
+                        <string>Digital tools make it easier to find resources</string>
+                    </f>
+                    <f xml:id="CATMA_49860bfb-94f9-4ddd-90c4-f148df18af27" name="catma_displaycolor">
+                        <numeric value="-256"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_e633dcc5-6043-4900-bc9b-ebb13d50ce79" name="Digital tools offers flexibility">
+                <fs xml:id="CATMA_11413c2f-8dc9-40e8-8b8b-bd2220f27e16" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_08bd30bc-245d-4d78-8552-dc8a6d3ab48c" name="catma_tagname">
+                        <string>Digital tools offers flexibility</string>
+                    </f>
+                    <f xml:id="CATMA_0cfd9048-ac24-4e7d-a746-da7bce5d53ff" name="catma_displaycolor">
+                        <numeric value="-16713985"/>
+                    </f>
+                </fs>
+            </f>
+            <f xml:id="CATMA_3dbce4b7-dc7c-4dda-a820-42560a1d7dba" name="Digital formats are easier to share and distribute">
+                <fs xml:id="CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+                    <f xml:id="CATMA_40ffab40-e41d-4ba0-8509-0d2f58a40e54" name="catma_tagname">
+                        <string>Digital formats are easier to share and distribute</string>
+                    </f>
+                    <f xml:id="CATMA_de9a89a9-1315-4219-9e43-c86bcbc058fc" name="catma_displaycolor">
+                        <numeric value="-16711859"/>
+                    </f>
+                </fs>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_7158ffe1-ef0a-4211-88a4-9834baf4acd7" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_b7254128-018f-4c20-8d3f-993cb3d8cbd9" name="catma_tagname">
+                <string>For personal use. Does not share them with others</string>
+            </f>
+            <f xml:id="CATMA_f3823ac3-cf8d-4934-9d1d-3b805b1f85d9" name="catma_displaycolor">
+                <numeric value="-65536"/>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_05df668e-402b-49ad-80e8-42dfe7c61f07" n="1_e4455a93-7fb9-4b51-bba0-87cc31d54675" type="catma_tag">
+            <f xml:id="CATMA_30b5c6ef-90db-42ec-8fb0-e4c7fc031444" name="catma_tagname">
+                <string>Self conscious</string>
+            </f>
+            <f xml:id="CATMA_9c5080b8-0d22-4a68-919a-560705366354" name="catma_displaycolor">
+                <numeric value="-16711929"/>
+            </f>
+        </fs>
+        <body>
+            <ab type="catma">
+                <ptr target="3.txt#range( /.0, /.444)" type="inclusion"/>
+                <seg ana="#CATMA_05df668e-402b-49ad-80e8-42dfe7c61f07">
+                    <ptr target="3.txt#range( /.444, /.529)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.529, /.616)" type="inclusion"/>
+                <seg ana="#CATMA_7158ffe1-ef0a-4211-88a4-9834baf4acd7">
+                    <ptr target="3.txt#range( /.616, /.716)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.716, /.1044)" type="inclusion"/>
+                <seg ana="#CATMA_ecebb61b-2401-4de1-9fa5-17ffec6ad25f">
+                    <ptr target="3.txt#range( /.1044, /.1322)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.1322, /.1572)" type="inclusion"/>
+                <seg ana="#CATMA_ecebb61b-2401-4de1-9fa5-17ffec6ad25f #CATMA_11413c2f-8dc9-40e8-8b8b-bd2220f27e16">
+                    <ptr target="3.txt#range( /.1572, /.1655)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.1655, /.1656)" type="inclusion"/>
+                <seg ana="#CATMA_7d8b606e-6b45-41c6-acf2-3748c5bddede">
+                    <ptr target="3.txt#range( /.1656, /.1800)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.1800, /.1801)" type="inclusion"/>
+                <seg ana="#CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7">
+                    <ptr target="3.txt#range( /.1801, /.2038)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.2038, /.2222)" type="inclusion"/>
+                <seg ana="#CATMA_47a56913-258b-4815-9a26-573a41dbb512 #CATMA_11413c2f-8dc9-40e8-8b8b-bd2220f27e16">
+                    <ptr target="3.txt#range( /.2222, /.2268)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_47a56913-258b-4815-9a26-573a41dbb512">
+                    <ptr target="3.txt#range( /.2268, /.2321)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_47a56913-258b-4815-9a26-573a41dbb512">
+                    <ptr target="3.txt#range( /.2321, /.2396)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.2396, /.2397)" type="inclusion"/>
+                <seg ana="#CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7">
+                    <ptr target="3.txt#range( /.2397, /.2518)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.2518, /.2813)" type="inclusion"/>
+                <seg ana="#CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7 #CATMA_80fb0b1a-5fe6-43d7-80b3-bac710c9b67a">
+                    <ptr target="3.txt#range( /.2813, /.3124)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7 #CATMA_80fb0b1a-5fe6-43d7-80b3-bac710c9b67a #CATMA_7685472b-e8f1-4539-ac70-cbeef515d525">
+                    <ptr target="3.txt#range( /.3124, /.3332)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.3332, /.3367)" type="inclusion"/>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023">
+                    <ptr target="3.txt#range( /.3367, /.3518)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.3518, /.3519)" type="inclusion"/>
+                <seg ana="#CATMA_47a56913-258b-4815-9a26-573a41dbb512">
+                    <ptr target="3.txt#range( /.3519, /.3648)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.3648, /.3820)" type="inclusion"/>
+                <seg ana="#CATMA_c7521cc9-36c5-446d-b5f1-2e4459cce5e0">
+                    <ptr target="3.txt#range( /.3820, /.4118)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_04e779c7-0093-4336-8175-aa936de889e4">
+                    <ptr target="3.txt#range( /.4118, /.4281)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.4281, /.4319)" type="inclusion"/>
+                <ptr target="3.txt#range( /.4319, /.4331)" type="inclusion"/>
+                <ptr target="3.txt#range( /.4331, /.4364)" type="inclusion"/>
+                <seg ana="#CATMA_04e779c7-0093-4336-8175-aa936de889e4 #CATMA_d7d60592-a48c-4711-a370-51b70b52b800">
+                    <ptr target="3.txt#range( /.4364, /.4537)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_04e779c7-0093-4336-8175-aa936de889e4">
+                    <ptr target="3.txt#range( /.4537, /.4641)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.4641, /.4674)" type="inclusion"/>
+                <seg ana="#CATMA_c7521cc9-36c5-446d-b5f1-2e4459cce5e0">
+                    <ptr target="3.txt#range( /.4674, /.4827)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.4827, /.5031)" type="inclusion"/>
+                <seg ana="#CATMA_bd1da253-9915-4c89-9c5f-f923a41910c6">
+                    <ptr target="3.txt#range( /.5031, /.5132)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.5132, /.5562)" type="inclusion"/>
+                <seg ana="#CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7">
+                    <ptr target="3.txt#range( /.5562, /.5674)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.5674, /.5719)" type="inclusion"/>
+                <seg ana="#CATMA_11413c2f-8dc9-40e8-8b8b-bd2220f27e16">
+                    <ptr target="3.txt#range( /.5719, /.6004)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.6004, /.6037)" type="inclusion"/>
+                <seg ana="#CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7 #CATMA_d7d60592-a48c-4711-a370-51b70b52b800 #CATMA_358a0d97-5920-4854-b23c-31c84cbfcc71">
+                    <ptr target="3.txt#range( /.6037, /.6226)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.6226, /.6481)" type="inclusion"/>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023">
+                    <ptr target="3.txt#range( /.6481, /.6603)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023 #CATMA_84673c40-3d20-434e-88f6-eb80dcd6afca">
+                    <ptr target="3.txt#range( /.6603, /.6795)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023">
+                    <ptr target="3.txt#range( /.6795, /.6969)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.6969, /.7131)" type="inclusion"/>
+                <seg ana="#CATMA_ab71fed2-4dc5-4225-b65c-2a9b77edd5eb">
+                    <ptr target="3.txt#range( /.7131, /.7273)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_ab71fed2-4dc5-4225-b65c-2a9b77edd5eb #CATMA_84673c40-3d20-434e-88f6-eb80dcd6afca">
+                    <ptr target="3.txt#range( /.7273, /.7406)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.7406, /.7548)" type="inclusion"/>
+                <seg ana="#CATMA_d7d60592-a48c-4711-a370-51b70b52b800">
+                    <ptr target="3.txt#range( /.7548, /.7697)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.7697, /.7698)" type="inclusion"/>
+                <seg ana="#CATMA_d340b809-484e-4b3f-a7ec-bf66280a55a7">
+                    <ptr target="3.txt#range( /.7698, /.7756)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.7756, /.8329)" type="inclusion"/>
+                <seg ana="#CATMA_31b7e266-588c-4209-8901-8819988d7eff">
+                    <ptr target="3.txt#range( /.8329, /.8510)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.8510, /.8511)" type="inclusion"/>
+                <seg ana="#CATMA_c7521cc9-36c5-446d-b5f1-2e4459cce5e0">
+                    <ptr target="3.txt#range( /.8511, /.8641)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.8641, /.8720)" type="inclusion"/>
+                <seg ana="#CATMA_ecebb61b-2401-4de1-9fa5-17ffec6ad25f">
+                    <ptr target="3.txt#range( /.8720, /.9021)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.9021, /.9336)" type="inclusion"/>
+                <seg ana="#CATMA_f15b8c67-1bb4-4d72-91d6-a02d8304188e">
+                    <ptr target="3.txt#range( /.9336, /.9549)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.9549, /.9796)" type="inclusion"/>
+                <seg ana="#CATMA_74a37ea5-57c9-435a-9eb2-80e1a2b6a77d #CATMA_7d8b606e-6b45-41c6-acf2-3748c5bddede">
+                    <ptr target="3.txt#range( /.9796, /.10130)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.10130, /.10240)" type="inclusion"/>
+                <seg ana="#CATMA_587af459-5dab-46f4-902f-4927e56db9af">
+                    <ptr target="3.txt#range( /.10240, /.10510)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.10510, /.10661)" type="inclusion"/>
+                <seg ana="#CATMA_80fb0b1a-5fe6-43d7-80b3-bac710c9b67a">
+                    <ptr target="3.txt#range( /.10661, /.10899)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.10899, /.11005)" type="inclusion"/>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023">
+                    <ptr target="3.txt#range( /.11005, /.11106)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023 #CATMA_ecebb61b-2401-4de1-9fa5-17ffec6ad25f">
+                    <ptr target="3.txt#range( /.11106, /.11249)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023">
+                    <ptr target="3.txt#range( /.11249, /.11372)" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_11413c2f-8dc9-40e8-8b8b-bd2220f27e16">
+                    <ptr target="3.txt#range( /.11372, /.11522)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.11522, /.11672)" type="inclusion"/>
+                <seg ana="#CATMA_25ac8e11-a798-4572-be20-0585fbabb22e">
+                    <ptr target="3.txt#range( /.11672, /.11763)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.11763, /.11797)" type="inclusion"/>
+                <seg ana="#CATMA_31aab730-88a7-4edd-ab29-67b3f89ae023 #CATMA_80fb0b1a-5fe6-43d7-80b3-bac710c9b67a">
+                    <ptr target="3.txt#range( /.11797, /.12050)" type="inclusion"/>
+                </seg>
+                <ptr target="3.txt#range( /.12050, /.12193)" type="inclusion"/>
+            </ab>
+        </body>
+    </text>
+</TEI>
