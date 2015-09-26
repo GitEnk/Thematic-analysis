@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>SDH for the fifth interview</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>empty</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>empty</p>
+                <ab>
+                    <fs xml:id="TARGET_INFO">
+                        <f name="version">
+                            <string>2</string>
+                        </f>
+                        <f name="filetype">
+                            <string>TEXT</string>
+                        </f>
+                        <f name="charset">
+                            <string>UTF-8</string>
+                        </f>
+                        <f name="fileOSType">
+                            <string>UNIX</string>
+                        </f>
+                        <f name="sourceTextType">
+                            <string>PROSE</string>
+                        </f>
+                        <f name="checksum">
+                            <string>499105899</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p n="1">
+                <ptr target="5.txt#range( /.0, /.41)" type="inclusion"/>
+            </p>
+            <p n="2">
+                <ptr target="5.txt#range( /.41, /.43)" type="inclusion"/>
+                <ptr target="5.txt#range( /.43, /.282)" type="inclusion"/>
+            </p>
+            <p n="3">
+                <ptr target="5.txt#range( /.282, /.284)" type="inclusion"/>
+                <ptr target="5.txt#range( /.284, /.314)" type="inclusion"/>
+            </p>
+            <p n="4">
+                <ptr target="5.txt#range( /.314, /.316)" type="inclusion"/>
+                <ptr target="5.txt#range( /.316, /.4433)" type="inclusion"/>
+            </p>
+            <p n="5">
+                <ptr target="5.txt#range( /.4433, /.4435)" type="inclusion"/>
+                <ptr target="5.txt#range( /.4435, /.5071)" type="inclusion"/>
+            </p>
+            <p n="6">
+                <ptr target="5.txt#range( /.5071, /.5073)" type="inclusion"/>
+                <ptr target="5.txt#range( /.5073, /.9964)" type="inclusion"/>
+            </p>
+        </body>
+    </text>
+</TEI>
